@@ -1,3 +1,4 @@
+![logo](https://github.com/ajassmohammed/ajassmohammed/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm AJAS S MOHAMMED</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
