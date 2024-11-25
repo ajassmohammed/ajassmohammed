@@ -1,5 +1,5 @@
 ![logo](https://github.com/ajassmohammed/ajassmohammed/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm AJAS S MOHAMMED</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+AJAS+S+MOHAMMED!" alt="Hi 👋, I'm AJAS S MOHAMMED" /></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajassmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ajassmohammed" /> </p>
